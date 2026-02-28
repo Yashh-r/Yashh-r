@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Sup, Im Yash Raut,
  Java Backend Developer with strong expertise in Java and Spring Boot.<br>Experienced in designing REST APIs, authentication systems (JWT), and database-driven applications.<br>Dedicated to building high-performance and production-ready backend solutions.
 
 
